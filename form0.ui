@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>350</width>
-    <height>400</height>
+    <width>400</width>
+    <height>512</height>
    </rect>
   </property>
   <property name="mouseTracking">
@@ -23,8 +23,8 @@
   <widget class="QPushButton" name="pushButton_2">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>360</y>
+     <x>20</x>
+     <y>480</y>
      <width>80</width>
      <height>24</height>
     </rect>
@@ -36,10 +36,10 @@
   <widget class="QStackedWidget" name="stackedWidget">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>351</width>
-     <height>361</height>
+     <x>10</x>
+     <y>20</y>
+     <width>381</width>
+     <height>451</height>
     </rect>
    </property>
    <property name="font">
@@ -936,8 +936,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
   <widget class="QLabel" name="label_page_name">
    <property name="geometry">
     <rect>
-     <x>260</x>
-     <y>360</y>
+     <x>310</x>
+     <y>480</y>
      <width>71</width>
      <height>21</height>
     </rect>
@@ -951,8 +951,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>350</width>
-     <height>400</height>
+     <width>400</width>
+     <height>512</height>
     </rect>
    </property>
    <property name="text">
