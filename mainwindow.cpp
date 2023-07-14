@@ -24,6 +24,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     ui->label_detial->setText("主辭明確：事主是你自己，還是代某人問?\n動辭明確：事主到底想做什麼事？\n時間地點：必要時要說清楚。\n有自己意志的選擇：問法如""我決定…我想要...");
+    ui->label_detial_2->setText("範例: 我在家裡種茄子好不好?");
 }
 
 MainWindow::~MainWindow()

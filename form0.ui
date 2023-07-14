@@ -57,8 +57,8 @@
       <rect>
        <x>10</x>
        <y>160</y>
-       <width>331</width>
-       <height>192</height>
+       <width>361</width>
+       <height>281</height>
       </rect>
      </property>
      <property name="html">
@@ -192,7 +192,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_17">
      <property name="geometry">
       <rect>
-       <x>110</x>
+       <x>130</x>
        <y>10</y>
        <width>231</width>
        <height>61</height>
@@ -211,8 +211,8 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_18">
      <property name="geometry">
       <rect>
-       <x>120</x>
-       <y>60</y>
+       <x>140</x>
+       <y>70</y>
        <width>221</width>
        <height>41</height>
       </rect>
@@ -385,7 +385,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_37">
      <property name="geometry">
       <rect>
-       <x>110</x>
+       <x>120</x>
        <y>10</y>
        <width>241</width>
        <height>61</height>
@@ -549,7 +549,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_47">
      <property name="geometry">
       <rect>
-       <x>110</x>
+       <x>130</x>
        <y>10</y>
        <width>231</width>
        <height>61</height>
@@ -568,7 +568,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_48">
      <property name="geometry">
       <rect>
-       <x>120</x>
+       <x>130</x>
        <y>60</y>
        <width>221</width>
        <height>91</height>
@@ -713,7 +713,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_57">
      <property name="geometry">
       <rect>
-       <x>110</x>
+       <x>130</x>
        <y>10</y>
        <width>231</width>
        <height>61</height>
@@ -732,7 +732,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_58">
      <property name="geometry">
       <rect>
-       <x>120</x>
+       <x>130</x>
        <y>60</y>
        <width>221</width>
        <height>91</height>
@@ -877,7 +877,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_67">
      <property name="geometry">
       <rect>
-       <x>110</x>
+       <x>130</x>
        <y>10</y>
        <width>231</width>
        <height>61</height>
@@ -896,7 +896,7 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <widget class="QLabel" name="label_68">
      <property name="geometry">
       <rect>
-       <x>120</x>
+       <x>130</x>
        <y>60</y>
        <width>221</width>
        <height>91</height>

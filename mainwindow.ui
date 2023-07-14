@@ -109,15 +109,15 @@
    <widget class="QLabel" name="label_detial">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>190</y>
+      <x>20</x>
+      <y>180</y>
       <width>381</width>
-      <height>131</height>
+      <height>111</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <family>微軟正黑體 Light</family>
+      <family>微軟正黑體</family>
       <pointsize>14</pointsize>
      </font>
     </property>
@@ -126,6 +126,28 @@
     </property>
     <property name="text">
      <string>卜卦問答說明</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_detial_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>290</y>
+      <width>381</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">COLOR:  rgb(170, 170, 255)</string>
+    </property>
+    <property name="text">
+     <string>範例:</string>
     </property>
    </widget>
   </widget>
