@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main_data/aubergine.ico</file>
+        <file>main_data/8gua.ico</file>
+    </qresource>
+</RCC>

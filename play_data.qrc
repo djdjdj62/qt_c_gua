@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>play_data/car.png</file>
+        <file>play_data/game_falied.png</file>
+        <file>play_data/game_name.png</file>
+        <file>play_data/game_pause.png</file>
+        <file>play_data/game_timeout.png</file>
+        <file>play_data/icon.ico</file>
+        <file>play_data/item1.png</file>
+        <file>play_data/item2.png</file>
+        <file>play_data/item3.png</file>
+        <file>play_data/start_btn.png</file>
+        <file>play_data/car_map.png</file>
+    </qresource>
+</RCC>
